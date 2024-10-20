@@ -7,3 +7,4 @@ To install TailwindCSS with PostCSS, follow the steps in the official documentat
 
 
 ## Step 1: Install TailwindCSS
+Open VSCode Terminal and type -> npm run start and it open into your localhost.  
